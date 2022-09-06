@@ -20,7 +20,7 @@ printf "GCD of $t1 , $t2 is $n1\n"
 
 while true
 do
-echo "Дай 2 numbers for GCD: "
+echo "2 numbers for GCD: "
 read one two
 if [[ -z $one ]] || [[ -z $two ]]
 then
